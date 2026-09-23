@@ -6,6 +6,4 @@ Testing commits from Inbind.
 
 New contnet here.
 
-Edited in github
-
- Another line
+I removed this unnecesarry line
