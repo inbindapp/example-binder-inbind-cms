@@ -26,7 +26,7 @@ Inbind CMS is a content management workspace built for content marketers. Spend 
 
 ## Hero headline
 
-The CMS built for content marketers here
+The CMS built for content marketers
 
 ## Hero subheadline
 
