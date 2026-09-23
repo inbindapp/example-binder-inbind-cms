@@ -5,3 +5,5 @@ This document contains information about Inbind CMS.
 Testing commits from Inbind.
 
 New contnet here.
+
+I removed this unnecesarry line we
