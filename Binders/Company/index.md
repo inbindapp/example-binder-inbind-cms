@@ -4,7 +4,7 @@ source: Notes/Onboarding/Company/
 ---
 # Company
 
-Inbind was founded by Petteri Raatikainen and Nikita Verkhovin — a product manager and a developer who built the product out of their own experience managing content on Webflow. The mission is simple: help content marketers spend their time on content, not on their CMS. The timing is driven by AI making content creation fast enough that operations are now the bottleneck. Several Company pages are partially filled and need the founding team to expand the narrative sections.
+Inbind was founded by Petteri Raatikainen and Nikita Verkhovin, a product manager and a developer who built the product out of their own experience managing content on Webflow. The mission is simple: help content marketers spend their time on content, not on their CMS. The timing is driven by AI making content creation fast enough that operations are now the bottleneck. Several Company pages are partially filled and need the founding team to expand the narrative sections.
 
 ## Pages
 
