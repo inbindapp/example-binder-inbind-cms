@@ -2,7 +2,7 @@
 last_synced: 2026-07-14
 source: Notes/Onboarding/Brand/Boilerplates.md
 ---
-# Boilerplates
+# Boilerplates!
 
 > ⚠️ This page was generated from incomplete source material. Review and expand the sections that are missing or thin.
 
